@@ -1,0 +1,2 @@
+# landingking
+GitHub Pages
